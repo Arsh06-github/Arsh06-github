@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! I'm Arsh Maheshwari <img src="https://i.gifer.com/3BBS.gif"/></h2>
+<h2 align="left">Hi there! I'm Arsh Maheshwari </h2>
 
 <p align="left">An enthusiastic Generative AI & Machine Learning Developer crafting digital solutions in 🇮🇳 India</p>
 
