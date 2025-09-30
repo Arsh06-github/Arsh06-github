@@ -2,14 +2,11 @@
 
 <p align="left">An enthusiastic Generative AI & Machine Learning Developer crafting digital solutions in 🇮🇳 India</p>
 
-
 ### 👨‍💻 About Me
 - 🔭 I'm currently working on 
 - 🌱 Learning and growing in Deep Learning Models
 - 💬 Ask me about React, JavaScript, Python, C++, Tailwind CSS
 - ⚡ Fun fact: Retarded Tech Nerd
-
-<img align="right" height="400" src="https://i.gifer.com/6vIk.gif" />
 
 ### 🛠️ Tech Stack
 <div align="left">
@@ -41,7 +38,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
 </div>
-
 
 
 ### ⚡ Recent Activity
