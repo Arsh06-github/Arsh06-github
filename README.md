@@ -33,6 +33,9 @@
   <a href="YOUR_PORTFOLIO_LINK_HERE">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
+  <a href="https://github.com/Arsh06-github/Arsh06-github/raw/main/Arsh_Resume.pdf">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=readdotcv&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume" />
+  </a>
   <a href="https://www.linkedin.com/in/arsh-maheshwari">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
