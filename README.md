@@ -3,8 +3,8 @@
 <p align="left">An enthusiastic Generative AI & Machine Learning Developer crafting digital solutions in 🇮🇳 India</p>
 
 ### 👨‍💻 About Me
-- 🔭 I'm currently working on 
-- 🌱 Learning and growing in Deep Learning Models
+- 🔭 I'm currently working on Model Tuning and Web Extensions
+- 🌱 Learning and growing in Deep Learning Models, NLP Pipelines, Web3 & Blockchain
 - 💬 Ask me about React, JavaScript, Python, C++, Tailwind CSS, Next.js, FastAPI, React, LangChain, Docker
 - ⚡ Fun fact: Retarded Tech Nerd
 
