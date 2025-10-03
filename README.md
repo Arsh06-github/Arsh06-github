@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 - 🔭 I'm currently working on 
 - 🌱 Learning and growing in Deep Learning Models
-- 💬 Ask me about React, JavaScript, Python, C++, Tailwind CSS, React, LangChain, Docker
+- 💬 Ask me about React, JavaScript, Python, C++, Tailwind CSS, Next.js, FastAPI, React, LangChain, Docker
 - ⚡ Fun fact: Retarded Tech Nerd
 
 ### 🛠️ Tech Stack
