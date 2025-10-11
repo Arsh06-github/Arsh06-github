@@ -2,9 +2,8 @@
 <p align="left">An enthusiastic Generative AI & Machine Learning Developer crafting digital solutions in 🇮🇳 India</p>
 
 ### 👨‍💻 About Me
-- 🔭 I'm currently working on Model Tuning and Web Extensions
-- 🌱 Learning and growing in Deep Learning Models, NLP Pipelines, Web3 & Blockchain
-- 💬 Ask me about React, JavaScript, Python, C++, Tailwind CSS, Next.js, FastAPI, React, LangChain, Docker
+- 🔭 I'm currently working on Model Tuning, Web3 projects and Web Extensions with AI integration
+- 🌱 Learning and growing in Deep Learning Models, NLP Pipelines, Generative AI, Agentic AI, Web3 & Blockchain
 - ⚡ Fun fact: Retarded Tech Nerd
 
 ### 🛠️ Tech Stack
@@ -14,6 +13,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" title="Next.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" height="40" alt="solidity" title="Solidity" />
   <img width="12" />
@@ -26,6 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="40" alt="ethereum" title="Ethereum" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" height="40" alt="bitcoin" title="Bitcoin" />
 </div>
 
 ### 🤝 Connect with Me
@@ -49,9 +56,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Launched CredoPay
-2. 💪 Successfully integrated x402 and Coinbase SDK
-3. 🗣 Working on a mental health assessment app
+1. 🎉 Launched CredoPay, SatsPay
+2. 💪 Successfully integrated x402, Coinbase, Leather, Xverse, BlueWallet, Metamask for Web3
+3. 🗣 Working on personal portfolio
 <!--END_SECTION:activity-->
 
 <p align="left">
